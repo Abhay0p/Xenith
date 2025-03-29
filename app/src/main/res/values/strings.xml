@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">XENITH</string>
+    <string name="settings_button_desc">Settings</string>
+    <string name="tab_layout_desc">Music navigation tabs</string>
+    <string name="current_song_art_desc">Current song album artwork</string>
+    <string name="tab_songs">Songs</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="tab_folders">Folders</string>
+    <string name="no_songs_found">No songs found on device</string>
+    <string name="songs_loaded">songs loaded</string>
+    <string name="play_desc">Play current song</string>
+    <string name="pause_desc">Pause current song</string>
+    <string name="permission_denied">Permission denied. Cannot load songs.</string>
+    <string name="add_playlist_desc">Add new playlist</string>
+    <string name="settings_title">Settings</string>
+    <string name="back_button_desc">Navigate back</string>
+    <string name="music_library_title">Music Library</string>
+    <string name="refresh_library">Refresh Music Library</string>
+    <string name="help_support_title">Help and Support</string>
+    <string name="get_help">Get Help</string>
+    <string name="play_pause_desc">Play/Pause</string>
+    <string name="view_pager_desc">Music content sections</string>
+    <string name="tab_songs_desc">Songs section</string>
+    <string name="tab_albums_desc">Albums section</string>
+    <string name="tab_playlists_desc">Playlists section</string>
+    <string name="tab_folders_desc">Folders section</string>
+    <string name="albums_list_desc">List of music albums</string>
+    <string name="no_albums_found">No albums found</string>
+    <string name="album_art_desc">Album artwork</string>
+    <string name="album_item_desc">Album %1$s by %2$s</string>
+</resources>
